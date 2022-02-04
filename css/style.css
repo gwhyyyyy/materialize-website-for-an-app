@@ -1,0 +1,143 @@
+nav {
+
+background-color: #1e272e;
+box-shadow: 0 8px 25px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+}
+.maincard {
+
+background-color: #f3f3f3;
+box-shadow: 0 8px 25px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+}
+.appDescription {
+margin-top: 10%;
+
+}
+.dlbtnandroid {
+
+background-color: #00cc6a;
+width: 100%;
+box-shadow: 0 8px 25px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+}
+.dlbtnapple {
+
+background-color: #1e272e;
+width: 100%;
+box-shadow: 0 8px 25px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+}
+
+.dlbtnandroid:hover {
+
+    background-color: #159456;
+    }
+    .dlbtnapple:hover {
+    
+    background-color: #0e0f0f;
+    }
+
+.swiper {
+    height: 350px;
+  }
+
+  .swiper-button-prev, .swiper-rtl .swiper-button-next {
+ 
+    color: #1e272e;
+}
+
+.swiper-button-next, .swiper-rtl .swiper-button-prev {
+    color: #1e272e;
+}
+.row .col.s12 {
+    padding: 10px;
+}
+.swiper-pagination-bullet {
+
+    background-color: #1e272e;
+    width: 10px;
+    height: 10px;
+    box-shadow: 0 8px 25px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+
+}
+
+.slideImg {
+
+    width: 150px;
+    height: 100%;
+}
+h2 {
+  
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-small {
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+ul:not(.browser-default)>li {
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-small {
+    height: 50px;
+    line-height: 50px;
+    font-size: 17px;
+}
+.btn-small i {
+    font-size: 2.2rem;
+}
+.collapsible-header {
+   
+    color: #1e272e;
+    
+}
+.cntctfb {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #4267b2;
+}
+.cntctfb:hover {
+    background-color: #30456e;
+
+}
+.cntctig {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #843ab5;
+}
+
+.cntctig:hover {
+    background-color: #58366e;
+
+}
+.cntcttw {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #1da1f2;
+}
+.cntcttw:hover {
+    background-color: #2d76a3;
+
+}
+
+.cntctfb i,  .cntcttw i, .cntctig i{
+
+    float: left;
+}
+.smbt {
+
+    background-color: #1e272e;
+}
+.smbt:hover {
+
+    background-color: #151516;
+}
+.input-field>label {
+  
+    font-size: 1.2rem;
+    line-height: 40px;
+
+}
